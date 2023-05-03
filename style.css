@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@200&family=Rubik:wght@300&family=Satisfy&family=Source+Sans+Pro:wght@300&family=Work+Sans:wght@300;400;700;900&display=swap');
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: rgb(97, 186, 183);
+  }
+header{
+	display: flex;
+  }
+  header h1{
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 500;
+  }
+  h3{
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 400;
+  }
+  .side{
+	max-width: 900px;
+	margin-top: 90px;
+	letter-spacing: 1px;
+	font-family: 'Work Sans', sans-serif;
+  }
+ main h2 {
+	margin: 0;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 540;
+  }
+  img {
+	height: 50vh;
+	width: auto;
+	margin: 20px 120px;
+  }
+  main {
+	/* max-width: 1000px; */
+	width: 80%;
+	margin: 0 auto;
+	padding: 20px;
+	max-height: 200px;
+  }
+  p {
+	line-height: 1.5;
+	letter-spacing: 1px;
+	font-family: 'Work Sans', sans-serif;
+	/* font-size: 18px; */
+  }
+  blockquote {
+	font-style: italic;
+	margin: 20px 0;
+	padding: 10px;
+	border-left: 3px solid #333;
+	background-color: #f8f8f8;
+  }
